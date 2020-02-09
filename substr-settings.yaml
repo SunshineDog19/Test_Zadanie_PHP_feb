@@ -1,0 +1,4 @@
+max-file-size: 1200
+mime-types:
+  - text/plain
+  - application/octet-stream

@@ -1,0 +1,11 @@
+{
+    "name": "anton/substr-search",
+    "type": "library",
+    "description": "SubstrSearch",
+    "keywords": [],
+    "license": "MIT",
+    "require": {
+        "php": "^7.2.5",
+        "symfony/yaml": "~5.1"
+    }
+}
